@@ -1,0 +1,8 @@
+**Database Name: ebillsystem**
+
+**Admin Login Details**
+
+Email   : admin@gmail.com
+Password: Password@123
+
+
